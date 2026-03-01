@@ -38,7 +38,7 @@ To reflect real-world underwater statistical likelihoods, the dataset adopts a 2
 
 ## 📥 Data Access
 
-Due to the total file size exceeding 2GB, the dataset is available via the following methods:
+Due to the total file size exceeding 1GB, the dataset is available via the following methods:
 
 **Zenodo**: [https://doi.org/10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
 
